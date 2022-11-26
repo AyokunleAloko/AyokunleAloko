@@ -2,7 +2,7 @@
 - 👀 I’m interested in webdesign and app develop
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on webdesign and app develop
-- 📫 How to reach me ay2realng@yahoo.com
+- 📫 How to reach me ay2realng@gmsil.com
 
 <!---
 AyokunleAloko/AyokunleAloko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
